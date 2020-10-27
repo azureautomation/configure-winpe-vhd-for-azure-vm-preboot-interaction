@@ -1,0 +1,20 @@
+{
+    "Author": "Jason C Ryberg",
+    "ContentSize": 4061,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/configure-winpe-vhd-for-azure-vm-preboot-interaction/master/Upload-ArmCustomVhd.ps1",
+    "DownloadCount": 672,
+    "Id": "Configure-WinPE-VHD-for-1e8a7699",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 181,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-2-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script creates, configures, and uploads a customized VHD to Azure, as part of a Cloud OSD process, allowing for remote interaction with pre-boot environments in Azure VMs using the Microsoft Diagnostics and Recovery Toolset.",
+    "Title": "Configure WinPE VHD for Azure VM Pre-boot Interaction",
+    "UpdatedDate": "2017-2-9T00:00:00",
+    "Url": "https://github.com/azureautomation/configure-winpe-vhd-for-azure-vm-preboot-interaction",
+    "UserTags": "Microsoft Azure, Powershell, Automation"
+}
